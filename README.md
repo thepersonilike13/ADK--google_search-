@@ -5,4 +5,4 @@ Output is returned as a concise, readable summary in plain text or JSON.
 Also can be queried again and again for more precise answers.
 
 
-![[screenshot.png]]
+![screenshot.png]
